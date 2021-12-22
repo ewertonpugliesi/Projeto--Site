@@ -9,7 +9,31 @@ main{
     background-color: brown;
     width: 500px;
     margin: auto;
-    height: 400px;
+    height: 800px;
     box-shadow: 3px 3px 5px cadetblue;
     padding: 10px;
+}
+h1{
+    font-size: 2cm;
+    color: darkseagreen;
+}
+
+h2{
+    font-size: 1.5 cm;
+    color: dimgrey;
+}
+
+img.lado{
+    float: right;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: firebrick;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: gold;
 }
